@@ -8,3 +8,15 @@ input {
     color: #fff;
     border-style:none;
 }
+
+h1 {
+    margin-left: 225px;
+    margin-top: 20px;
+}
+
+#myform {
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
