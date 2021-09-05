@@ -12,13 +12,12 @@ input {
 h1 {
     text-align: center;
     font-size: 80px;
-    margin-left: 225px;
+    margin-right: 150px;
     margin-top: 20px;
 }
 
 #myform {
-    text-align: center;
-    font-size: 80px;
-    margin-right: 150px;
+  
+    margin-right: 225px;
     margin-top: 20px;
 }
