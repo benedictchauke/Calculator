@@ -10,6 +10,8 @@ input {
 }
 
 h1 {
+    text-align: center;
+    font-size: 80px;
     margin-left: 225px;
     margin-top: 20px;
 }
